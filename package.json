@@ -1,0 +1,30 @@
+{
+  "name": "ts-oop",
+  "version": "1.0.0",
+  "description": "Workarround Object Oriented with Typescript",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z-alamsyah/ts-oop.git"
+  },
+  "keywords": [
+    "oop"
+  ],
+  "author": "z-alamsyah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z-alamsyah/ts-oop/issues"
+  },
+  "homepage": "https://github.com/z-alamsyah/ts-oop#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
+  },
+  "dependencies": {
+    "uuid": "^11.1.0"
+  }
+}
